@@ -1103,4 +1103,994 @@ window.app['items'] = [
             "ur": "صبر کرنے والا"
         }
     }
+    {
+        "id": 10201,
+        "content": "عادل",
+        "category": ['Asma un Nabi'],
+        "translationss": "Aadil",
+         "translations": {
+            "en": "The Justice",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10202,
+        "content": "عالم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Aalim",
+         "translations": {
+            "en": "The Scholar",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10203,
+        "content": "عبدالله",
+        "category": ['Asma un Nabi'],
+        "translationss": "Abdullah",
+         "translations": {
+            "en": "Slave of Allah",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10204,
+        "content": "ابوالقاسم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Abu al Qaasim",
+         "translations": {
+            "en": "The father of Qasim.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10205,
+        "content": "ابو الطاھر",
+        "category": ['Asma un Nabi'],
+        "translationss": "Abu at Tahir",
+         "translations": {
+            "en": "The father of Tahir.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10206,
+        "content": "ابوالطیب",
+        "category": ['Asma un Nabi'],
+        "translationss": "Abu at Tayyib",
+         "translations": {
+            "en": "The father of Tayyib.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10207,
+        "content": "ابو ابراھیم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Abu Ibrahim",
+         "translations": {
+            "en": "The father of Ibrahim.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10208,
+        "content": "عفو",
+        "category": ['Asma un Nabi'],
+        "translationss": "Afoow",
+         "translations": {
+            "en": "Forgiver.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10209,
+        "content": "احید",
+        "category": ['Asma un Nabi'],
+        "translationss": "Aheed",
+         "translations": {
+            "en": "He who takes to one side.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10210,
+        "content": "احمد",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ahmad",
+         "translations": {
+            "en": "Much praised",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10211,
+        "content": "اجیر",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ajeer",
+         "translations": {
+            "en": "He who is rewarded.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10212,
+        "content": "علم الایمان",
+        "category": ['Asma un Nabi'],
+        "translationss": "Alam ul Eeman",
+         "translations": {
+            "en": "The banner of faith.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10213,
+        "content": "علم الیقین",
+        "category": ['Asma un Nabi'],
+        "translationss": "Alam ul Yaqeen",
+         "translations": {
+            "en": "The banner of belief.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10214,
+        "content": "علم الھدیٰ",
+        "category": ['Asma un Nabi'],
+        "translationss": "Alamul Hudaa",
+         "translations": {
+            "en": "Banner of guidance.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10215,
+        "content": "علیم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Aleem",
+         "translations": {
+            "en": "The Knowledgeable",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10216,
+        "content": "امین",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ameen",
+         "translations": {
+            "en": "The Honest One",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10217,
+        "content": "النجم الثاقب",
+        "category": ['Asma un Nabi'],
+        "translationss": "An Najm-us-Saqib",
+         "translations": {
+            "en": "Shining star.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10218,
+        "content": "عاقب",
+        "category": ['Asma un Nabi'],
+        "translationss": "Aqib",
+         "translations": {
+            "en": "The Latest",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10219,
+        "content": "عربی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Arabi",
+         "translations": {
+            "en": "The Arabi",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10220,
+        "content": "اول",
+        "category": ['Asma un Nabi'],
+        "translationss": "Awwal",
+         "translations": {
+            "en": "The First",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10221,
+        "content": "عین الغر",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ayn ul Ghurr",
+         "translations": {
+            "en": "The chief of the chosen one.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10222,
+        "content": "عین النعیم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ayn un Naeem",
+         "translations": {
+            "en": "The spring of blessing.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10223,
+        "content": "عزیز",
+        "category": ['Asma un Nabi'],
+        "translationss": "Aziz",
+         "translations": {
+            "en": "The Honoured One",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10224,
+        "content": "بالغ",
+        "category": ['Asma un Nabi'],
+        "translationss": "Baaligh",
+         "translations": {
+            "en": "He who attains the elevated station.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10225,
+        "content": "بار",
+        "category": ['Asma un Nabi'],
+        "translationss": "Bar",
+         "translations": {
+            "en": "Pious",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10226,
+        "content": "بشیر",
+        "category": ['Asma un Nabi'],
+        "translationss": "Basheer",
+         "translations": {
+            "en": "The Messenger of Good News",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10227,
+        "content": "بیان",
+        "category": ['Asma un Nabi'],
+        "translationss": "Bayan",
+         "translations": {
+            "en": "Obvious words",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10228,
+        "content": "برھان",
+        "category": ['Asma un Nabi'],
+        "translationss": "Burhan",
+         "translations": {
+            "en": "The Evidence",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10229,
+        "content": "بشریٰ",
+        "category": ['Asma un Nabi'],
+        "translationss": "Bushraa",
+         "translations": {
+            "en": "Giver of good tidings.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10230,
+        "content": "داع",
+        "category": ['Asma un Nabi'],
+        "translationss": "Daa",
+         "translations": {
+            "en": "The Invitor",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10231,
+        "content": "دلیل الخیرات",
+        "category": ['Asma un Nabi'],
+        "translationss": "Daleel ul Khyayraat",
+         "translations": {
+            "en": "To guide to virtue.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10232,
+        "content": "فاتح",
+        "category": ['Asma un Nabi'],
+        "translationss": "Faateh",
+         "translations": {
+            "en": "The Victor",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10233,
+        "content": "فاضل",
+        "category": ['Asma un Nabi'],
+        "translationss": "Faazil",
+         "translations": {
+            "en": "Virtuous.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10234,
+        "content": "فصیح اللسان",
+        "category": ['Asma un Nabi'],
+        "translationss": "Faseehul Lisaan",
+         "translations": {
+            "en": "The eloquent of speech.",
+            "ur": "",
+        }
+    },
+    {
+        "id": 10235,
+        "content": "فتاح",
+        "category": ['Asma un Nabi'],
+        "translationss": "Fatah",
+         "translations": {
+            "en": "The Successor, The Opener",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10236,
+        "content": "غنی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ghani",
+         "translations": {
+            "en": "The Rich",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10237,
+        "content": "غریب",
+        "category": ['Asma un Nabi'],
+        "translationss": "Gharib",
+         "translations": {
+            "en": "The Poor",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10238,
+        "content": "غوث",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ghaus",
+         "translations": {
+            "en": "Succour, listener to complaints.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10239,
+        "content": "غیث",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ghays",
+         "translations": {
+            "en": "Shower of mercy.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10240,
+        "content": "غیاث",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ghiyaas",
+         "translations": {
+            "en": "Full of succour.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10241,
+        "content": "ھاد",
+        "category": ['Asma un Nabi'],
+        "translationss": "Haad",
+         "translations": {
+            "en": "The Leader",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10242,
+        "content": "حبیب الله",
+        "category": ['Asma un Nabi'],
+        "translationss": "Habeebullah",
+         "translations": {
+            "en": "Beloved of Allah.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10243,
+        "content": "حبیب",
+        "category": ['Asma un Nabi'],
+        "translationss": "Habieb",
+         "translations": {
+            "en": "The Beloved",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10244,
+        "content": "حفی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hafeey",
+         "translations": {
+            "en": "Very merciful.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10245,
+        "content": "حافظ",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hafiz",
+         "translations": {
+            "en": "The Guardian",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10246,
+        "content": "حکیم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hakeem",
+         "translations": {
+            "en": "The Wise",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10247,
+        "content": "حامد",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hamid",
+         "translations": {
+            "en": "The Praiser",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10248,
+        "content": "حمید",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hamied",
+         "translations": {
+            "en": "The Thankful",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10249,
+        "content": "حق",
+        "category": ['Asma un Nabi'],
+        "translationss": "Haq",
+         "translations": {
+            "en": "The True, The Truth",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10250,
+        "content": "حریص علیکم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Harees-un-Alaikum",
+         "translations": {
+            "en": "The Covetous for the Believers",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10251,
+        "content": "ھاشم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hashim",
+         "translations": {
+            "en": "The Destroyer, The Crusher of Evil",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10252,
+        "content": "حاشر",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hashir",
+         "translations": {
+            "en": "The Awakener, The Gatherer",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10253,
+        "content": "ھاشمے",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hashmi",
+         "translations": {
+            "en": "The Hashmi",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10254,
+        "content": "ھدیه الله",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hidayatullah",
+         "translations": {
+            "en": "Gift of Allah.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10255,
+        "content": "حجازی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hijazi",
+         "translations": {
+            "en": "The Hijazi",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10256,
+        "content": "حزب الله",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hizbullah",
+         "translations": {
+            "en": "Army of Allah.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10257,
+        "content": "ھدی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hudaa",
+         "translations": {
+            "en": "Guide.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10258,
+        "content": "حجه",
+        "category": ['Asma un Nabi'],
+        "translationss": "Hujjat",
+         "translations": {
+            "en": "The Right Argument",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10259,
+        "content": "اکلیل",
+        "category": ['Asma un Nabi'],
+        "translationss": "Ikleel",
+         "translations": {
+            "en": "Chief (of Prophets)",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10260,
+        "content": "امام",
+        "category": ['Asma un Nabi'],
+        "translationss": "Imam",
+         "translations": {
+            "en": "The Guide",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10261,
+        "content": "امام المتقین",
+        "category": ['Asma un Nabi'],
+        "translationss": "Imamul Muttaqeen",
+         "translations": {
+            "en": "Leader of the pious.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10262,
+        "content": "عزالعرب",
+        "category": ['Asma un Nabi'],
+        "translationss": "Izzul Arab",
+         "translations": {
+            "en": "The honour of Arabs.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10263,
+        "content": "جامع",
+        "category": ['Asma un Nabi'],
+        "translationss": "Jaami",
+         "translations": {
+            "en": "Perfect.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10264,
+        "content": "جبار",
+        "category": ['Asma un Nabi'],
+        "translationss": "Jabbar",
+         "translations": {
+            "en": "Dominant.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10265,
+        "content": "جواد",
+        "category": ['Asma un Nabi'],
+        "translationss": "Jawwad",
+         "translations": {
+            "en": "The Generous",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10266,
+        "content": "کاف",
+        "category": ['Asma un Nabi'],
+        "translationss": "Kaaf",
+         "translations": {
+            "en": "Sufficient, enough.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10267,
+        "content": "کامل",
+        "category": ['Asma un Nabi'],
+        "translationss": "Kaamil",
+         "translations": {
+            "en": "Perfect.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10268,
+        "content": "کاشف الکرب",
+        "category": ['Asma un Nabi'],
+        "translationss": "Kaashiful Kurab",
+         "translations": {
+            "en": "He who solves difficulties.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10269,
+        "content": "کفیل",
+        "category": ['Asma un Nabi'],
+        "translationss": "Kafeel",
+         "translations": {
+            "en": "Surety.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10270,
+        "content": "کلیم الله",
+        "category": ['Asma un Nabi'],
+        "translationss": "Kaleemullah",
+         "translations": {
+            "en": "Who converses with Allah.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10271,
+        "content": "کریم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Kareem",
+         "translations": {
+            "en": "The Noble",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10272,
+        "content": "خلیل الرحمٰن",
+        "category": ['Asma un Nabi'],
+        "translationss": "Khaleel ur Rahman",
+         "translations": {
+            "en": "The freind of Compassionate.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10273,
+        "content": "خلیل",
+        "category": ['Asma un Nabi'],
+        "translationss": "Khalil",
+         "translations": {
+            "en": "The True Friend",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10274,
+        "content": "خاتم الانبیآء",
+        "category": ['Asma un Nabi'],
+        "translationss": "Khatamul anbiya",
+         "translations": {
+            "en": "Seal of the Prophets.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10275,
+        "content": "خاتم الرسل",
+        "category": ['Asma un Nabi'],
+        "translationss": "Khatamur Rusul",
+         "translations": {
+            "en": "Seal of Messengers.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10276,
+        "content": "خطیب الامم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Khateebul Umam",
+         "translations": {
+            "en": "Sermoniser for the people.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10277,
+        "content": "خطیب",
+        "category": ['Asma un Nabi'],
+        "translationss": "Khatieb",
+         "translations": {
+            "en": "The Sermoniser",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10278,
+        "content": "خاتم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Khatim",
+         "translations": {
+            "en": "The Finalizer",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10279,
+        "content": "ماح",
+        "category": ['Asma un Nabi'],
+        "translationss": "Maah",
+         "translations": {
+            "en": "The obliterator of Infidelity",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10280,
+        "content": "مدنی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Madani",
+         "translations": {
+            "en": "The Resident of Madina",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10281,
+        "content": "مدعو",
+        "category": ['Asma un Nabi'],
+        "translationss": "Madoow",
+         "translations": {
+            "en": "Who is called.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10282,
+        "content": "مھد",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mahd",
+         "translations": {
+            "en": "The Guided One",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10283,
+        "content": "مھدی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mahdee",
+         "translations": {
+            "en": "Who is guided.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10284,
+        "content": "مھدی",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mahdiy",
+         "translations": {
+            "en": "He Who is Well Guided",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10285,
+        "content": "محمود",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mahmood",
+         "translations": {
+            "en": "The Commendable",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10286,
+        "content": "مکین",
+        "category": ['Asma un Nabi'],
+        "translationss": "Makeen",
+         "translations": {
+            "en": "Who is given Rank",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10287,
+        "content": "مکین",
+        "category": ['Asma un Nabi'],
+        "translationss": "Makeen",
+         "translations": {
+            "en": "Who is given rank.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10288,
+        "content": "مخصوص بالعز",
+        "category": ['Asma un Nabi'],
+        "translationss": "Makhsoos bil Izz",
+         "translations": {
+            "en": "Chosen to be honoured.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10289,
+        "content": "مخصوص بالمجد",
+        "category": ['Asma un Nabi'],
+        "translationss": "Makhsoos bil Majd",
+         "translations": {
+            "en": "Chosen to be on the right path.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10290,
+        "content": "مخصوص بالشرف",
+        "category": ['Asma un Nabi'],
+        "translationss": "Makhsoos bil Sharaf",
+         "translations": {
+            "en": "Picked up as a noble.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10291,
+        "content": "معلوم",
+        "category": ['Asma un Nabi'],
+        "translationss": "Maloom",
+         "translations": {
+            "en": "Known.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10292,
+        "content": "مامون",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mamoon",
+         "translations": {
+            "en": "Secure.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10293,
+        "content": "منصور",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mansoor",
+         "translations": {
+            "en": "Who is helped",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10294,
+        "content": "معراج",
+        "category": ['Asma un Nabi'],
+        "translationss": "Maraj",
+         "translations": {
+            "en": "The Place of Ascent, The Above",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10295,
+        "content": "مشھود",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mashhood",
+         "translations": {
+            "en": "He who is witnessed.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10296,
+        "content": "مشکور",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mashkoor",
+         "translations": {
+            "en": "The Thankful",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10297,
+        "content": "متین",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mateen",
+         "translations": {
+            "en": "The Strong",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10298,
+        "content": "موصول",
+        "category": ['Asma un Nabi'],
+        "translationss": "Mawsool",
+         "translations": {
+            "en": "Having link with Allah.",
+            "ur": "",
+         }
+    },
+    {
+        "id": 10299,
+        "content": "مفتاح",
+        "category": ['Asma un Nabi'],
+        "translationss": "Miftaah",
+         "translations": {
+            "en": "Key to the secrets.",
+            "ur": "",
+         }
+    }
 ];
